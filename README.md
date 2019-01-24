@@ -7,7 +7,7 @@
 - Target platform
   - Android SDK 28 compatible platform
   - Tested: 
-     - Galaxy S7 (Android 8.0.0 Oreo)     - 
+     - Galaxy S7 (Android 8.0.0 Oreo)
 - Developer
   - Youngpil Kim (youngpill.kim at gmail.com)
 
