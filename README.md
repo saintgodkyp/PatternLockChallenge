@@ -1,8 +1,11 @@
 # PatternLockChallenge
 
-## Goals
-- Measure your time to draw a pattern lock, and help to train your pattern drawing
-- This app suggests you a pattern according to difficulty
+## Overview
+- Developer
+  - Youngpil Kim (youngpill.kim at gmail.com)
+- Goals
+  - Measure your time to draw a pattern lock, and help to train your pattern drawing
+  - This app suggests you a pattern according to difficulty
 
 ## Target platform
 - Android SDK 28 compatible platform
