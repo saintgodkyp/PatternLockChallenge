@@ -15,7 +15,8 @@
 - Beta release
 
 ## How to install
-- Download and install: https://github.com/saintgodkyp/PatternLockChallenge/blob/master/PSLTrainer.apk
+- Download the apk in your Android: https://github.com/saintgodkyp/PatternLockChallenge/blob/master/PSLTrainer.apk
+- Install it
 
 ## How to play
 - Difficulty
