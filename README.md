@@ -15,15 +15,21 @@
 - Beta release
 
 ## How to install
+- Download and install 
 
-
-## How to run
-
-
-
-
-
-
+## How to play
+- Difficulty
+    - Select the number of dots ( default 4, maximum 9 )
+- Trials
+    - Select the number of attempts ( default 3, maximum. 10 )
+- Challenge
+    - Remeber the random pattern, and push 'Go'
+    - Draw the pattern repeatedly 
+    - Check your results with a graph (Avg. drawing time, Avg. error)
+    - Submit your results
+- Submit
+    - Choose your nickname
+    - Submit your record
 
 ## Used resources
 - Pattern lock view, https://github.com/aritraroy/PatternLockView
