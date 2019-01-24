@@ -17,6 +17,7 @@
 ## How to install
 - Download the apk in your Android: https://github.com/saintgodkyp/PatternLockChallenge/blob/master/PSLTrainer.apk?raw=true
 - Install it
+    - If a security popup is shown, please allow this installaion.
 
 ## How to play
 - Difficulty
