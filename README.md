@@ -14,13 +14,17 @@
 - Accessing google spreadsheet, https://www.crazycodersclub.com/android/how-to-use-google-sheet-as-database-for-android-app-1-insert-operation/
 - Assest file access, http://recipes4dev.tistory.com/125
 
+## History
+- 2019-01-24, PatternLockChallenge (beta) release
+
+## Latest apk
+- 
 
 ## How to install
 
 
-
-
 ## How to run
+
 
 
 
